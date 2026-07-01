@@ -21,6 +21,7 @@ function getResult(a, b) {
 
 getResult(8, 5);
 
+
 GEC
 
 Creation Phase:
